@@ -1,0 +1,124 @@
+11-06-08
+TUITT Day
+
+GITHUB REPO
+*'git init' => initialize current working folder
+on terminal
+
+*'git status' => shows the list of new files
+that isn't comitted to github
+
+*'git add -A' => add all the files not
+recognized by git
+
+*'git commit -m "message"' => after selecting
+and adding new files to git, to save changes
+you must commit and write a message
+about the changes
+
+*'git config --global user.email "you@email.com"' =>
+setting email for git to recognize
+
+*'git config --global user.name "lester" =>
+setting name for git to recognize
+
+*'git remote add $alias $link' => add remote link
+
+*'git push $alias master' => upload files to github
+
+*'git remote -v' => check the list of available link
+aliases for you current folder
+
+WORLD WIDE WEB
+how the internet started?
+a. 1950's - computer's can only process one task at a time
+it is called "batch-processing"
+-internet was used by scientists
+-1917 => "time-sharing" can process several tasks at once.
+-1960 => technologies that will pave a way for internet was created
+-one concept was called "packet-switching", it is introduced by NPL
+(National Physical Laboratory). technique of transmitting long messages
+-packet loss occurs wherein one or more packets of data travelling across
+a computer network fail to reach their destination.
+-packet-switching was used by ARPA (Advanced Research Projects Agency)
+has four universities: UCLA SRI UCSB UU
+-ARPANET network formed by connecting these institutions
+oct 29, 1969 first message sent over ARPANET. received "Lo" Sent "Login"
+-1973 ARPANET became international with a sattelite network
+-internet means interconnected networks
+-vint cerf and bob kahn developed tcp/ip to have a shared standards
+-01 1 1983 switched to tcp/ip
+-vint cerf and bob kahn are recognized as the Fathers of Internet
+-application, internet, network interface. Layers of network
+Network interface.
+-communicates using wired or wireless means
+-wired connection, electronic signals. wireless, radio waves.
+-modem, converts binary data to transmit over a channel
+-ISP's are middlemen
+Internet layer.
+-"device-to-device communication"Internet Protocol: identification of each device 
+connected to the network,the format of the messages, routing the messages from 
+the source to the destination.
+-device identification. Ip addresses are assigned to a device
+-127.0.0.1 => loopback address (localhost)
+Domain Name System. Naming system that maps a domain name to a specific
+ip address
+parts of a domain: 
+third label domain or subdomain / host => subdomain.website.com
+*describes the function of the website
+second level domain / sld => www.sld.com
+top level domain / tld => www.website.tld
+*instant way to understand what a website is about or where is it based
+
+--------
+Internet layer
+-Message format => a message should be broken into fixed sized segment
+called packets. packets will be sent to the routers and forwarded to the
+target segments
+header 96bits . payload 892bits. trailer 32bits
+-Packet Routing => packets sent from pc contains the ip address of the computer(destination)
+routers use this ip address to forward them
+-packet routing
+
+Application Layer
+*Internet vs. World Wide Web* // they are not the same
+Internet connects the machine
+Web connects people / information
+-world wide web is the system we use to access the internet
+*client requests from server; server responses to the requests*
+-clients are the typical web user's internet-connected devices
+-servers are computers that store web pages, sites, or apps.
+
+-URL => Uniform resource locator. Global address of the documents and other resources on
+the world wide web
+it has several parts:
+.protocol => https://
+.domain name => www.facebook.com
+.directory / folder => /foldername
+.web page => /login
+.-file extension => .asp
+
+HTTP - Hypertext Transfer Protocol
+HTTPs - Hypertext Transfer Protocol Secure
+POP - Post office protocol
+smtp -
+
+domain name => unique reference that identifies a website on the internet
+directory => actual location of the file that we want to access
+File extension => type of file of the web page being viewed. if a file cannot be found
+, a 404 not found error will usually be returned by the server
+Browsers => people access websites using a software called
+web browser
+
+Web server => special computer that are constantly connected to the
+internet, and are optimized to send web pages out to people who
+request them.
+
+devices => people are accessing websites using devices. ex. mobile phone
+
+Screen readers => Programs that read out the contents of a computer
+screen to a user.
+
+How websites are created?
+a. HTML. HTML w/ CSS. HTML w/ CSS w/ Bootstrap. HTML w/ CSS w/ Bootstrap
+w/ JS.
