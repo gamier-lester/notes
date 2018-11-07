@@ -1,0 +1,83 @@
+VSC (Version Control System) => piece of software that manages (control)
+the revisions (changes) of a source code, documents, and other collections
+of information in a folder (repository) and optimize collaboration of a
+team working on a single project or product.
+
+git dev branch => push progress of whole day
+
+Repositories in git => REMOTE REPO && LOCAL REPO
+
+
+HTML -
+Structure of Webpage
+* electronic versions of documents
+
+<html></html> => main element
+
+void elements => elements that doesn't require closing tags ex. <img>
+
+<head></head> => element used to assign a title to an HMTL document
+-name is used by search engines / name is used in bookmarks
+
+<body></body> => contains the entire content of a webpage
+-display tags inside it in the main browser
+
+TAGS
+*HEADINGS provide the title or theme for each section of the page it has
+6 elements - h1 h2 h3 h4 h5 h6
+-block element
+
+*Paragraph => defines a simple paragraph of text
+-Block element
+
+*Document Division => used to group elements and display on block mode
+
+*Inline container (span) => used for grouping and applying styles to
+inline elements
+
+*Line break => defines a line break within a text | block element |
+empty element / self - closing tag
+
+*anchor tag => self closing tag | width = the length of character\
+alocated
+
+*horizontal rule => creates a break between themes -- such as break of
+topic in a book
+
+*Strong => indicates that its content has strong importance
+
+*Bold vs Strong => bold tags are just decorations / not a logical tag
+strong tag is a logical tag that styles and gives text a meaning
+in a screen reader, strong tags are speleed with more emphasis
+
+*Emphasis => indicates emphasis that subtly a word
+*Italic vs Emphasis => italic is just a style && Emphasis has the purpose
+of giving emphasis to the content
+
+*Superscripts => like exponents
+
+*Subscripts => footnotes
+
+*Abbreviation => defines an abbreviation, and usually includes its full
+description
+
+*Block quote => used for longer quotes that take up an entire paragraph
+
+*quote => used for shorter quoutes
+
+*insert and delete => insert shows content that has been inserted ||
+delete show text that has been deleted 
+
+*Strike => indicates something that is no longer accurate or relevant
+(but that should not be deleted) || displayed with a line through
+the center
+
+*Small =>
+
+LINK FORMATTING
+links => are created using <a></a> or anchor element
+absolute url => url not on local machine ex http://www.google.com
+	protocol://domain/path
+relative url => url on local machine ex assets/css/style.css
+
+parent | Child | Grandparent | grandchild
